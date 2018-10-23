@@ -1,0 +1,16 @@
+.menu-spacer{
+    flex: 1 1 auto;
+}
+
+.mat-drawer-container{
+    overflow: unset;
+}
+
+.mat-drawer-content{
+    overflow: unset;
+}
+
+.mat-toolbar.header{
+    min-height: 56px !important;
+    height: 56px !important;
+}
